@@ -9,4 +9,4 @@ RUN yarn install
 RUN yarn run build
 RUN npm install --global http-server
 
-CMD ["http-server", "build/test-site", "-p", "3000"]
+CMD ["http-server", "build/devopswithbailey", "-p", "3000"]
