@@ -2,21 +2,21 @@
 <rss version="2.0">
     <channel>
         <title>DevOps with Bailey Blog</title>
-        <link>//blog</link>
+        <link>/blog</link>
         <description>The best place to stay up-to-date with the latest DevOps with Bailey news and events.</description>
         <lastBuildDate>Mon, 24 Aug 2020 06:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
             <title>DevOps with Bailey Blog</title>
-            <url>//img/favicon.ico</url>
-            <link>//blog</link>
+            <url>/img/favicon.ico</url>
+            <link>/blog</link>
         </image>
         <copyright>Copyright © 2020 - 2020 DevOps with Bailey</copyright>
         <item>
             <title><![CDATA[Build A Blog Using Docusaurus]]></title>
-            <link>//blog/2020/08/24/build-a-blog.html</link>
-            <guid>//blog/2020/08/24/build-a-blog.html</guid>
+            <link>/blog/2020/08/24/build-a-blog.html</link>
+            <guid>/blog/2020/08/24/build-a-blog.html</guid>
             <pubDate>Mon, 24 Aug 2020 06:00:00 GMT</pubDate>
             <description><![CDATA[<p>This is my first blog</p> ]]></description>
         </item>
