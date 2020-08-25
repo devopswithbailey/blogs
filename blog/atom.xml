@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://devopswithbailey.com/blogsblog</id>
+    <title>DevOps with Bailey Blog</title>
+    <updated>2020-08-24T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://devopswithbailey.com/blogsblog"/>
+    <subtitle>The best place to stay up-to-date with the latest DevOps with Bailey news and events.</subtitle>
+    <logo>https://devopswithbailey.com/blogsimg/favicon.ico</logo>
+    <rights>Copyright © 2020 - 2020 DevOps with Bailey</rights>
+    <entry>
+        <title type="html"><![CDATA[Build A Blog Using Docusaurus]]></title>
+        <id>https://devopswithbailey.com/blogsblog/2020/08/24/build-a-blog.html</id>
+        <link href="https://devopswithbailey.com/blogsblog/2020/08/24/build-a-blog.html"/>
+        <updated>2020-08-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>This is my first blog</p> ]]></summary>
+        <author>
+            <name>DevOpsWithBailey</name>
+            <uri>https://www.youtube.com/channel/UC26aYnf6SB4oaQNIzvD2GLQ?view_as=subscriber</uri>
+        </author>
+    </entry>
+</feed>
