@@ -29,7 +29,7 @@ const siteConfig = {
   title: 'DevOps with Bailey', // Title for your website.
   tagline: 'Blog for DevOps',
   url: 'https://devopswithbailey.com', // Your website URL
-  baseUrl: '/blogs', // Base URL for your project */
+  baseUrl: '/blogs/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
