@@ -7,6 +7,7 @@
 
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
+const path = require('path');
 
 // List of projects/orgs using your project for the users page.
 const users = [
@@ -23,6 +24,7 @@ const users = [
 const siteConfig = {
   // We need to keep the docs folder in the same folder
   // as the package.json file for now
+  customDocsPath: path.basename(__dirname) + '/docs',
 
   title: 'DevOps with Bailey', // Title for your website.
   tagline: 'Blog for DevOps',
