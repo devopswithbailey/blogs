@@ -114,7 +114,7 @@ const siteConfig = {
 
   gaTrackingId: 'UA-176081093-1',
 
-  cname: 'devopswithbailey.io',
+  cname: 'devopswithbailey.com',
 };
 
 module.exports = siteConfig;
