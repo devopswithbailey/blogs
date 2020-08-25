@@ -113,6 +113,8 @@ const siteConfig = {
   repoUrl: 'https://github.com/devopswithbailey/hello-world',
 
   gaTrackingId: 'UA-176081093-1',
+
+  cname: 'devopswithbailey.io',
 };
 
 module.exports = siteConfig;
