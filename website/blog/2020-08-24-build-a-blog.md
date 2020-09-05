@@ -27,6 +27,7 @@ Please refer to https://docusaurus.io/docs/en/publishing#using-github-pages
     // For github.io type URLs, you would set the url and baseUrl like:
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
+    cname: 'devopswithbailey.com', // Your domain
     ```
     **Note:** For custom domain type URLs, you would set baseUrl to '/' instead of your project path, or else it would not load the correct path for CSS and JS. 
 2. Domain Config
