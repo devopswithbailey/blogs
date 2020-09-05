@@ -112,6 +112,8 @@ const siteConfig = {
   repoUrl: 'https://github.com/devopswithbailey/blogs',
 
   gaTrackingId: 'UA-176081093-1',
+  
+  gaGtag: true,
 
   cname: 'devopswithbailey.com',
 };
