@@ -1,7 +1,7 @@
 ---
-title: Build A Blog Using Docusaurus
+title: Build A Blog Using Docusaurus With Custom Domain at cost of $12 A Year 
 author: DevOpsWithBailey
 authorURL: https://www.youtube.com/channel/UC26aYnf6SB4oaQNIzvD2GLQ?view_as=subscriber
 ---
 
-This is my first blog
+
