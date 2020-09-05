@@ -1,8 +1,9 @@
 ---
-title: Building A Blog Using Docusaurus With Custom Domain at cost of $12 A Year 
+title: Building A Blog Using Docusaurus With Custom Domain at Cost of $12 A Year 
 author: DevOpsWithBailey
 authorURL: https://www.youtube.com/channel/UC26aYnf6SB4oaQNIzvD2GLQ?view_as=subscriber
 ---
+10 minutes read
 
 Publishing your blog website at GitHub Pages for free. The only cost($12 per year) is for custom domain if you do not want to use GitHub Pages domain.
 
@@ -27,7 +28,7 @@ Please refer to https://docusaurus.io/docs/en/publishing#using-github-pages
     //   url: 'https://facebook.github.io',
     //   baseUrl: '/test-site/',
     ```
-    **Note:** For custom domain type URLs, you would set baseUrl to '/' instead of your project path, or else it would not find the correct path for css and js. 
+    **Note:** For custom domain type URLs, you would set baseUrl to '/' instead of your project path, or else it would not load the correct path for CSS and JS. 
 2. Domain Config
     
     Add A records for your DNS, which pints your domain to GitHub Pages IP addresses.
