@@ -1,5 +1,6 @@
 # Building A Blog Using Docusaurus With Custom Domain at cost of $12 A Year
 Publishing your blog website at GitHub Pages for free. The only cost($12 per year) is for custom domain if you do not want to use GitHub Pages domain.
+Please check out my [blogging website](https://devopswithbailey.com).
 
 ## Installing Docusaurus
 Please refer to https://docusaurus.io/docs/en/installation
