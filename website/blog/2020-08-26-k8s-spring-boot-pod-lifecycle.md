@@ -30,3 +30,17 @@ Load balancer is standard by default when you create a AKS cluster now. Upgrade 
 The pool members of the Azure load balancer are your AKS nodes at **NodePort** 32650. The load balancer checks on the health of the nodes every 5 seconds. A pool member will be considered as unhealthy if the probe failed 2 times in a row.
 
 **Summary:** to reduce the chances for external users to see http timeout, make sure there are **multiple AKS nodes** in the backend pool and the **interval** of the health probe is frequent enough.
+## livenessProbe
+```
+livenessProbe:
+    httpGet:
+      path: "/actuator/health/liveness"
+      port: 9100
+      scheme: "HTTP"
+    initialDelaySeconds: 80
+    timeoutSeconds: 1
+    periodSeconds: 10
+    successThreshold: 1
+    failureThreshold: 3
+```
+It is a typical livenessProbe for Spring Boot projects. To reduce the chances for external users to see http timeout, make sure the **periodSeconds** is frequent enough
