@@ -23,10 +23,12 @@
 ]]></description>
         </item>
         <item>
-            <title><![CDATA[Build A Blog Using Docusaurus With Custom Domain at cost of $12 A Year]]></title>
+            <title><![CDATA[Building A Blog Using Docusaurus With Custom Domain at cost of $12 A Year]]></title>
             <link>https://devopswithbailey.com/blog/2020/08/24/build-a-blog.html</link>
             <guid>https://devopswithbailey.com/blog/2020/08/24/build-a-blog.html</guid>
             <pubDate>Mon, 24 Aug 2020 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>Publishing your blog website at GitHub Pages for free. The only cost($12 per year) is for custom domain if you do not want to use GitHub Pages domain.</p>
+]]></description>
         </item>
     </channel>
 </rss>

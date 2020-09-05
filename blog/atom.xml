@@ -22,10 +22,12 @@
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Build A Blog Using Docusaurus With Custom Domain at cost of $12 A Year]]></title>
+        <title type="html"><![CDATA[Building A Blog Using Docusaurus With Custom Domain at cost of $12 A Year]]></title>
         <id>https://devopswithbailey.com/blog/2020/08/24/build-a-blog.html</id>
         <link href="https://devopswithbailey.com/blog/2020/08/24/build-a-blog.html"/>
         <updated>2020-08-24T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>Publishing your blog website at GitHub Pages for free. The only cost($12 per year) is for custom domain if you do not want to use GitHub Pages domain.</p>
+]]></summary>
         <author>
             <name>DevOpsWithBailey</name>
             <uri>https://www.youtube.com/channel/UC26aYnf6SB4oaQNIzvD2GLQ?view_as=subscriber</uri>
